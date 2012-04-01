@@ -1,7 +1,6 @@
-module.exports = class HomeView extends Backbone.View
-  id: 'home-view'
-  template: require './templates/home'
+View = require './view'
+template = require './templates/home'
 
-  render: ->
-    @$el.html @template()
-    this
+module.exports = class HomeView extends View
+  id: 'home-view'
+  template: template
