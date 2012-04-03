@@ -3,7 +3,7 @@ This is a simple coffee skeleton for [Brunch](http://brunch.io/).
 
 Main languages are [CoffeeScript](http://coffeescript.org/),
 [Stylus](http://learnboost.github.com/stylus/) and
-[Eco](https://github.com/sstephenson/eco).
+[Handlebars](http://handlebarsjs.com/).
 
 ## Getting started
 
