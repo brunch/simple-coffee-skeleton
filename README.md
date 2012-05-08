@@ -57,8 +57,8 @@ This all will generate `public/` (by default) directory when `brunch build` or `
 Versions of software the skeleton uses:
 
 * jQuery 1.7.2
-* Backbone 0.9.1
-* Underscore 1.3.1
+* Backbone 0.9.2
+* Underscore 1.3.3
 * HTML5Boilerplate 3.0.3
 
 The license is [public domain](http://creativecommons.org/publicdomain/zero/1.0/).
